@@ -1,6 +1,3 @@
-<link rel="stylesheet" href="/Users/zhangyong/highlight/styles/default.css">
-<script src="/Users/zhangyong/highlight/highlight.pack.js"></script>
-<script>hljs.initHighlightingOnLoad();</script>
 
 
 # Tinyurl
