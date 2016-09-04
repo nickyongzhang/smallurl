@@ -35,9 +35,9 @@ In order to make the function work. We need to import some libraries.
 
 Yes, the code is just that simple!
 
-<!--## Installation
+## Installation
 
-	$ pip install tinyurl-->
+	$ pip install tinyurl
 
 
 ## Usage
